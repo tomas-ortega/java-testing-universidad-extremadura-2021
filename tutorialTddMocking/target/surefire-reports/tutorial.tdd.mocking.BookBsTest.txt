@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tutorial.tdd.mocking.BookBsTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.994 sec - in tutorial.tdd.mocking.BookBsTest
